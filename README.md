@@ -1,0 +1,2 @@
+# Deterministic Finite Automata Visualizer
+A browser-based tool that allows you to create and visualize DFAs. Made using the [p5.js Library](https://www.p5js.org). Just a random project I made cuz I was bored. You can access the online version [here](https://vspecky.github.io/dfa-visualizer/index.html), download the offline version [here](https://drive.google.com/file/d/1v_R3Y06wHPx5JGMWkR_7vgctJkeZ6k6k/view?usp=sharing) and look at the documentation [here](https://www.github.com/vspecky/dfa-visualizer/tree/master/docs)
