@@ -1,6 +1,6 @@
 # DFA Visualizer Documentation
 This is the documentation for my DFA Visualizer project which you can find [here](https://www.github.com/vspecky/dfa-visualizer).  
-![DFA](https://www.github.com/vspecky/dfa-visualizer/tree/master/docs/imgs/machine.png)
+![DFA](./imgs/machine.png)
 
 ## Layout
 The visualizer consists of a canvas on which you shall be making your Deterministic Finite Automaton. Scrolling downwards, you will see a set of buttons and input boxes. These allow you to dictate the various parameters and the behavior of your automaton and are divided into three categories :-
